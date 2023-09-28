@@ -1,5 +1,5 @@
 body{
-    background: rgb(196, 190, 190);
+    background: rgb(228, 226, 226);
     margin: 0;
 }
 div{
@@ -14,11 +14,12 @@ header h1 {
 }
 div.post{
     background: white;
-    margin-top: 10px;
+    margin-top: 30px;
 }
 div.post img{
     width: 100%;
 }
+
 div.post .post-header div:first-child{
     display: inline-block;
     width: 80%;
@@ -32,10 +33,11 @@ div.post .post-header div:last-child{
 }
 div.post h2, div.post p{
     padding: 10px;
-    margin: 0;
+    margin: auto;
 }
 div.container{
-    width: 600px;
+    width: 700px;
     margin: auto;
     padding: 30px;
 }
+/* */
